@@ -34,3 +34,6 @@ ANN (Proposed Model)	89.7%	0.91	0.88	0.89
 Random Forest	83.5%	0.85	0.81	0.83
 Logistic Regression	76.4%	0.79	0.75	0.77
 📌 ANN achieves the highest accuracy in predicting earthquake risk zones.
+
+License
+This project is licensed under the MIT License – see the LICENSE file for details.
