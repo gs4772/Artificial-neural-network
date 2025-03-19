@@ -57,5 +57,3 @@ Explore cross-validation for robustness.
 ## Contributing
 Feel free to fork this repo, suggest improvements, or submit pull requests!
 
-## License
-This project is unlicensed—free to use and modify as needed.
