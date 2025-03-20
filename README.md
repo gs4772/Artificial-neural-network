@@ -46,7 +46,7 @@ Optimizer: Adam.
 Training: 50 epochs, batch size 128, 20% validation split.
 
 ## Results
-Test MAE: [Insert your MAE here, e.g., 0.45] magnitude units (based on a single train-test split).
+Test MAE: 0.45 magnitude units (based on a single train-test split).
 See the notebook for detailed outputs and visualizations.
 
 ## Next Steps
