@@ -27,3 +27,5 @@ Model
 Tuning: Optimized layers (e.g., 32–128 neurons) and learning rate (e.g., 0.0001–0.01) using keras-tuner.
 Loss: Mean Squared Error (MSE).
 Optimizer: Adam.
+
+- Run predictions: `python predict_magnitude.py`
