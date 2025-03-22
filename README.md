@@ -7,7 +7,7 @@ The goal is to predict earthquake magnitudes based on features such as latitude,
 
 ## Files
 - **`ANN_Qk.ipynb`**: Jupyter Notebook containing the full workflow:
-  - Data loading and preprocessing of `Eartquakes-1990-2023.csv`.
+  - Data loading and preprocessing of `Eartquakes-1900-2025.csv`.
   - ANN model training and evaluation.
   - Visualization of actual vs. predicted magnitudes on a geographical map.
   - Saving the trained model (`earthquake_magnitude_model.h5`) and scaler (`scaler.pkl`).
