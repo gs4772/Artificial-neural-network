@@ -7,7 +7,7 @@ The ANN is optimized to predict magnitudes based on features like latitude, long
 
 ## Files
 - **`ANN_Qk.ipynb`**: Jupyter Notebook with:
-  - Data preprocessing of `Eartquakes-1990-2023.csv`.
+  - Data preprocessing of `Eartquakes-1900-2025.csv`.
   - Hyper-tuned ANN training and evaluation.
   - Visualization of predictions.
 
@@ -21,7 +21,7 @@ joblib
 plotly
 
 Usage
-Place Eartquakes-1990-2023.csv in the directory.
+Place Eartquakes-1900-2025.csv in the directory.
 Run ANN_Qk.ipynb in Jupyter to train and evaluate the hyper-tuned model.
 Model
 Tuning: Optimized layers (e.g., 32–128 neurons) and learning rate (e.g., 0.0001–0.01) using keras-tuner.
